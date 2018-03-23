@@ -1,4 +1,4 @@
-# BankMangementSystem
+# BankManagementSystem
 
 A CUI implementaion of the working and functionalities of a Bank.
 
